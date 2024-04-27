@@ -74,4 +74,3 @@ if community_forum:
     st.header("Community Forum")
     # Add forum here
 
-Sent from Outlook for Android
